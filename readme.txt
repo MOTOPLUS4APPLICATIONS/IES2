@@ -1,9 +1,16 @@
-Release 0.87
-+ Add Japanease translation draft.
-+ Add visual stdio installer project(msi installer) draft. 
-+ The setup.msi is included to Setup/Relsase folder. 
-+ Avove source and resource  files are currently being organized.
+2000年以前のマレリIAWウェーバーECU向け故障診断システムのサードバーティWindows用ユーザインターフェイスの日本語と機能改善版のリポジトリです。
 
+Release 0.87
++ Add Japanease translation draft. / 日本語版のリソースを追加しました。機能の呼び名は古巣の自動車部品メーカに合せています。
++ Add visual stdio installer project(msi installer) draft. / Windows msiインストーラを追加しました
++ The setup.msi is included to Setup/Relsase folder. / インストーラはSetup/Relsase/Setup.msi です。
++ Avove source and resource files are currently being organized. / プログラムコードやresourceは整理中です。
++ This version abnormal end on Windows7. (investigation) / Windows7では落ちます。調査中です。
+
+その他改善等はこちらブログにしています。
+https://motoplus4.com/2000年以前用fiatダイアグツールを日本語化αを試す1
+
+================  以下本家の更新ログ ================ 
 *** IAW Scan 2
 
 IAW Scan 2 is a succesor of the IAW ECU Scan application.

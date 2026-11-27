@@ -6,9 +6,10 @@ Release 0.87
 + The setup.msi is included to Setup/Relsase folder. / インストーラはSetup/Relsase/Setup.msi です。
 + Avove source and resource files are currently being organized. / プログラムコードやresourceは整理中です。
 + This version abnormal end on Windows7. (investigation) / Windows7では落ちます。調査中です。
++ Testing system is Fire 1.2 8V SPI only now. / 現在テストできたのは Fire 1.2 8V SPI のみです。
 
 その他改善等はこちらブログにしています。
-https://motoplus4.com/2000年以前用fiatダイアグツールを日本語化αを試す1
+https://motoplus4.com/blog/2000%e5%b9%b4%e4%bb%a5%e5%89%8d%e7%94%a8fiat%e3%83%80%e3%82%a4%e3%82%a2%e3%82%b0%e3%83%84%e3%83%bc%e3%83%ab%e3%82%92%e6%97%a5%e6%9c%ac%e8%aa%9e%e5%8c%96%ce%b1%e3%82%92%e8%a9%a6%e3%81%991/
 
 ================  以下本家の更新ログ ================ 
 *** IAW Scan 2
